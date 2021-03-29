@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Yannick1223
+- Programming languages that I can: C#, Unity
+- Programming languages that I still want to learn: C++, Python, Java and Web
+- 🌱 I’m currently learning Git
+- 📫 How to reach me: Discord (Yannick1223#7639)
